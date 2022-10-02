@@ -1,5 +1,5 @@
 function playerFinder
-workingDir = 'C:\Users\coziz\Downloads\Lab6-20220928T084142Z-001\Lab6';
+workingDir = 'C:\Users\coziz\Downloads\Lab6-20220928T084142Z-001\Lab6'; % change this to local folder
 detector = peopleDetectorACF();
 video = VideoReader('football2.mp4');
 
