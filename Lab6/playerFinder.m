@@ -1,6 +1,6 @@
 function playerFinder
 workingDir = 'C:\Users\coziz\Downloads\Lab6-20220928T084142Z-001\Lab6';
-
+detector = peopleDetectorACF();
 video = VideoReader('football2.mp4');
 
 i = 1;
